@@ -1,0 +1,603 @@
+is:
+  is: 
+  aa: afár
+  ab: abkasíska
+  ace: akkíska
+  ace: acehnesíska
+  ach: akólí
+  ada: adangme
+  ady: adýge
+  ae: avestíska
+  af: afríkanska
+  afa: afróasísk mál (önnur)
+  afa: afróasísk mál
+  afh: afríhílí
+  ain: aínu (Japan)
+  ak: akan
+  akk: akkadíska
+  ale: aleúska
+  ale: aleutíska
+  alg: algonkvínsk mál
+  alt: suðuraltaíska
+  am: amharíska
+  an: aragonska
+  ang: fornenska (um 450-1100)
+  ang: fornenska
+  anp: angíka
+  apa: apatsjamál
+  ar: arabíska
+  arc: arameíska
+  arc: officiell arameíska
+  arn: arákaníska
+  arp: arapahó
+  art: alþjóðamál (önnur)
+  art: alþjóðamál
+  arw: aravakska
+  as: assamska
+  asa: asu (Tanzania)
+  ast: astúríska
+  ath: atapaskísk mál
+  aus: áströlsk mál
+  av: avaríska
+  awa: avadí
+  ay: aímara
+  az: aserska
+  ba: baskír
+  bad: banda
+  bad: bandasmál
+  bai: bamílekemál
+  bai: bamilékísk mál
+  bal: balúkí
+  ban: balíska
+  bas: basa
+  bas: basa (Kamerun)
+  bat: baltnesk mál (önnur)
+  bat: baltnesk mál
+  be: hvítrússneska
+  bej: beja
+  bem: bemba
+  bem: bemba (Zambia)
+  ber: berbamál
+  bez: bena (Tanzania)
+  bg: búlgarska
+  bh: bíharí
+  bh: bíharísk mál
+  bho: bojpúrí
+  bi: bíslama
+  bik: bíkol
+  bik: bícolano
+  bin: bíní
+  bla: siksika
+  bm: bambara
+  bn: bengalska
+  bnt: bantúmál
+  bo: tíbeska
+  br: bretónska
+  bra: braí
+  bs: bosníska
+  btk: batak
+  btk: batakmál
+  bua: búríat
+  bug: búgíska
+  byn: blín
+  ca: katalónska
+  cad: kaddó
+  cai: Indíánamál Mið-Ameríku (önnur)
+  cai: Mið-Ameríku indíánamál
+  car: karíbamál
+  car: galibíska
+  cau: kákasusmál (önnur)
+  cau: kákasusmál
+  cch: atsam
+  ce: tsjetsjenska
+  ceb: kebúanó
+  cel: keltnesk (önnur)
+  cel: keltnesk mál
+  ch: kamorró
+  chb: síbsja
+  chg: sjagataí
+  chk: sjúkíska
+  chm: marí
+  chm: maríska (Rusland)
+  chn: sínúk
+  chn: sínúk wawa
+  cho: sjoktá
+  chp: sípevíska
+  chr: sjerókí
+  chy: sjeyen
+  cmc: kamísk mál
+  co: korsíska
+  cop: koptíska
+  cpe: kreól- og pidginmál á enskum grunni
+  cpe: kreól- eða pidginmál á enskum grunni
+  cpf: kreól- og pidginmál á frönskum grunni
+  cpf: kreól- eða pidginmál á frönskum grunni
+  cpp: kreól- og pidginmál á portúgölskum grunni
+  cpp: kreól- eða pidginmál á portúgölskum grunni
+  cr: krí
+  crh: krímtyrkneska
+  crp: kreól- og pidginmál (önnur)
+  crp: kreól- eða pidginmál
+  cs: tékkneska
+  csb: kasúbíska
+  cu: kirkjuslavneska
+  cus: kúsitísk mál (önnur)
+  cus: kúsitísk mál
+  cv: sjúvas
+  cy: velska
+  da: danska
+  dak: dakóta
+  dar: dargva
+  day: dajak
+  day: land dayakmál
+  de: þýska
+  de_AT: austurrísk þýska
+  de_CH: svissnesk háþýska
+  del: delaver
+  den: slavneska
+  den: slavéj
+  dgr: dogríb
+  din: dinka
+  doi: dogrí
+  doi: dogri-kangri
+  dra: dravidísk mál (önnur)
+  dra: dravidísk mál
+  dsb: lágsorbneska
+  dua: dúala
+  dum: miðhollenska (um 1050-1350)
+  dum: miðhollenska
+  dv: dívehí
+  dyu: djúla
+  dz: dsongka
+  ee: eve
+  efi: efík
+  egy: fornegypska
+  eka: ekajúk
+  el: nýgríska (1453-)
+  el: gríska
+  elx: elamít
+  en: enska
+  en_AU: áströlsk enska
+  en_CA: kanadísk enska
+  en_GB: bresk enska
+  en_US: bandarísk enska
+  enm: miðenska (1100-1500)
+  enm: miðenska
+  eo: esperantó
+  es: spænska
+  es_419: latnesk-amerísk spænska
+  es_ES: íberísk spænska
+  es_ES: evrópeísk spænska
+  et: eistneska
+  eu: baskneska
+  ewo: evondó
+  fa: persneska
+  fan: fang
+  fat: fantí
+  ff: fúla
+  ff: fulfulde
+  fi: finnska
+  fil: filipínska
+  fiu: finnskúgrísk mál (önnur)
+  fiu: finnskúgrísk mál
+  fj: fídjeyska
+  fo: færeyska
+  fon: fón
+  fr: franska
+  fr_CA: kanadísk franska
+  fr_CH: svissnesk franska
+  frm: miðfranska (um 1400-1600)
+  frm: miðfranska
+  fro: fornfranska (842 - um 1400)
+  fro: fornfranska
+  frr: norðurfrísneska
+  frs: austurfrísneska
+  fur: fríúlska
+  fy: frísneska
+  ga: írska
+  gaa: ga
+  gay: gajó
+  gba: gbaja
+  gd: skosk gelíska
+  gem: germönsk mál (önnur)
+  gem: germönsk mál
+  gez: gís
+  gil: gilberska
+  gl: gallegska
+  gmh: miðháþýska (um 1050-1500
+  gmh: miðháþýska
+  gn: gvaraní
+  goh: fornháþýska (um 750-1050)
+  goh: fornháþýska
+  gon: gondí
+  gor: gorontaló
+  got: gotneska
+  grb: gerbó
+  grc: forngríska (til 1453)
+  grc: forngríska
+  gsw: svissnesk þýska
+  gu: gújaratí
+  gv: manx
+  gwi: gvísín
+  ha: hása
+  hai: haída
+  haw: havaíska
+  he: hebreska
+  hi: hindí
+  hil: híligaínon
+  him: hímasjalí
+  him: hímasjalísk mál
+  hit: hettitíska
+  hmn: hmong
+  ho: hírímótú
+  hr: króatíska
+  hsb: hásorbneska
+  ht: haítíska
+  hu: ungverska
+  hup: húpa
+  hy: armenska
+  hz: hereró
+  ia: interlingva
+  iba: íban
+  id: indónesíska
+  ie: interlingve
+  ig: ígbó
+  ii: sísúanjí
+  ijo: íjó
+  ijo: íjómál
+  ik: ínúpíak
+  ilo: ílokó
+  inc: indversk mál (önnur)
+  inc: indversk mál
+  ine: indóevrópsk mál (önnur)
+  ine: indóevrópsk mál
+  inh: ingús
+  io: ídó
+  ira: íranska
+  iro: írókesk mál
+  is: íslenska
+  it: ítalska
+  iu: inúktitút
+  ja: japanska
+  jbo: lojban
+  jpr: gyðingapersneska
+  jrb: gyðingaarabíska
+  jv: javanska
+  ka: georgíska
+  kaa: karakalpak
+  kab: kabíle
+  kac: kasín
+  kaj: jju
+  kam: kamba
+  kam: kamba (Kenya)
+  kar: karen
+  kar: karénsk mál
+  kaw: kaví
+  kbd: kabardíska
+  kcg: tyap
+  kfo: koro
+  kg: kongó
+  kha: kasí
+  khi: koímál (önnur)
+  khi: koímál
+  kho: kotaska
+  ki: kíkújú
+  kj: kúanjama
+  kk: kasakska
+  kl: grænlenska
+  km: kmer
+  km: kambodíska
+  kmb: kimbúndú
+  kn: kannada
+  ko: kóreska
+  kok: konkaní
+  kos: kosraska
+  kpe: kpelle
+  kpe: kpellé
+  kr: kanúrí
+  krc: karasaíbalkar
+  krl: karélska
+  kro: krú
+  kro: krúmál
+  kru: kúrúk
+  ks: kasmírska
+  ku: kúrdneska
+  kum: kúmík
+  kut: kútenaí
+  kv: komíska
+  kw: korníska
+  ky: kirgiska
+  la: latína
+  lad: ladínska
+  lah: landa
+  lam: lamba
+  lb: lúxemborgíska
+  lez: lesgíska
+  lg: ganda
+  li: limbúrgíska
+  ln: lingala
+  lo: laó
+  lol: mongó
+  loz: losí
+  lt: litháíska
+  lu: lúbakatanga
+  lua: lúbalúlúa
+  lui: lúisenó
+  lun: lúnda
+  luo: lúó
+  lus: lúsaí
+  luy: olulujía
+  lv: lettneska
+  mad: madúrska
+  mag: magahí
+  mai: maítílí
+  mak: makasar
+  man: mandingó
+  map: ástrónesíska
+  mas: masaí
+  mdf: moksa
+  mdr: mandar
+  men: mende
+  men: mende (Sierra Leone)
+  mg: malagasíska
+  mga: miðírska (900-1200)
+  mga: miðírska
+  mh: marshallska
+  mi: maórí
+  mic: mikmak
+  mic: miʼkmak
+  min: mínangkabá
+  mis: ýmis mál
+  mis: (önnur mál)
+  mk: makedónska
+  mkh: monkmermál (önnur)
+  mkh: monkmermál
+  ml: malajalam
+  mn: mongólska
+  mnc: mansjú
+  mni: manípúrí
+  mno: manóbómál
+  mo: moldóvska
+  moh: móhíska
+  mos: mossí
+  mr: maratí
+  ms: malaíska
+  mt: maltneska
+  mul: margvísleg mál
+  mul: (margvísleg mál)
+  mun: múndamál
+  mus: krík
+  mwl: mirandesíska
+  mwr: marvarí
+  my: burmneska
+  my: búrmíska
+  myn: majamál
+  myv: ersja
+  na: nárúska
+  nah: nahúatl
+  nah: aztekísk mál
+  nai: Indíánamál Norður-Ameríku (önnur)
+  nai: Norður-Ameríku indíánamál
+  nap: napólíska
+  nb: norskt bókmál
+  nd: norðurndebele
+  nds: Lágþýska; Lágsaxneska
+  nds: lágþýska
+  ne: nepalska
+  new: nevarí
+  new: nevaríska
+  ng: ndonga
+  nia: nías
+  nic: nígerkordófanmál (önnur)
+  nic: Niger-Kongomál
+  niu: níveska
+  nl: hollenska
+  nl_BE: flæmska
+  nn: nýnorska
+  no: norska
+  nog: nógaí
+  non: norræna
+  nqo: N’Ko
+  nqo: n-ká
+  nr: suðurndebele
+  nso: norðursótó
+  nub: núbísk mál
+  nv: navahó
+  nwc: klassísk nevaríska
+  ny: Njanja; Sísjeva; Sjeva
+  ny: njanja
+  nym: njamvesí
+  nyn: njankóle
+  nyo: njóró
+  nzi: nsíma
+  oc: Okkitíska (eftir 1500); Próvensalska
+  oc: okkitíska
+  oj: ojibva
+  om: órómó
+  or: óría
+  os: ossetíska
+  osa: ósage
+  ota: tyrkneska, ottóman (1500-1928)
+  ota: ottóman tyrkneska
+  oto: ótommál
+  pa: púnjabí
+  paa: papúsk mál (önnur)
+  paa: papúsk mál
+  pag: pangasínmál
+  pag: pangasinán
+  pal: palaví
+  pam: pampanga
+  pap: papíamentó
+  pau: paláska
+  peo: fornpersneska
+  phi: filippseysk mál (önnur)
+  phi: filippseysk mál
+  phn: fönikíska
+  pi: palí
+  pl: pólska
+  pon: ponpeiska
+  pra: prakrítmál
+  pro: fornpróvensalska (til 1500)
+  pro: fornpróvensalska
+  ps: pastú
+  pt: portúgalska
+  pt_BR: brasílísk portúgalska
+  pt_PT: íberísk portúgalska
+  pt_PT: evrópeísk portúgalska
+  qu: kvesjúa
+  raj: rajastaní
+  rap: rapanúí
+  rar: rarótongska
+  rm: retórómanska
+  rm: rumansh
+  rn: rúndí
+  ro: rúmenska
+  roa: rómönsk mál (önnur)
+  roa: rómönsk mál
+  rom: romaní
+  root: rót
+  root: (rót)
+  ru: rússneska
+  rup: arúmenska
+  rw: kínjarvanda
+  sa: sanskrít
+  sad: sandave
+  sah: jakút
+  sai: Indíánamál Suður-Ameríku (önnur)
+  sai: Suður-Ameríku indíánamál
+  sal: salísmál
+  sam: samversk arameíska
+  sas: sasak
+  sat: santalí
+  sc: sardínska
+  scn: sikileyska
+  sco: skoska
+  sd: sindí
+  se: norðursamíska
+  sel: selkúp
+  sem: semísk mál (önnur)
+  sem: semísk mál
+  sg: sangó
+  sga: fornírska (til 900)
+  sga: fornírska
+  sgn: táknmál
+  sh: serbókróatíska
+  shn: sjan
+  si: singalesíska
+  sid: sídamó
+  sio: síúmál
+  sit: sínótíbesk mál
+  sk: slóvakíska
+  sl: slóvenska
+  sla: slavnesk mál (önnur)
+  sla: slavnesk mál
+  sm: samóska
+  sma: suðursamíska
+  smi: samísk mál (önnur)
+  smi: samísk mál
+  smj: lúlesamíska
+  smn: enaresamíska
+  sms: skoltesamíska
+  sn: shóna
+  snk: sóninke
+  so: sómalska
+  sog: sogdíen
+  son: songhaí
+  son: songhaímál
+  sq: albanska
+  sr: serbneska
+  srn: sranan tongo
+  srr: serer
+  ss: svatí
+  ssa: nílósaharamál (önnur)
+  ssa: nílósaharamál
+  st: suðursótó
+  su: súndanska
+  suk: súkúma
+  sus: súsú
+  sux: súmerska
+  sv: sænska
+  sw: svahílí
+  swb: shimaoríska
+  syc: klassísk sýrlenska
+  syr: sýrlenska
+  ta: tamílska
+  tai: taímál (önnur)
+  tai: taímál
+  te: telúgú
+  tem: tímne
+  ter: terenó
+  tet: tetúm
+  tg: tadsjikska
+  th: taílenska
+  ti: tígrinja
+  tig: tígre
+  tiv: tív
+  tk: túrkmenska
+  tkl: tókeláska
+  tl: tagalog
+  tlh: klingónska
+  tli: tlingit
+  tmh: tamasjek
+  tn: tsúana
+  to: Tongverska (Tongaeyjar)
+  to: tongverska (Tongaeyjar)
+  tog: Tongverska (Nyasa)
+  tog: tongverska (Moçambique)
+  tpi: tokpisin
+  tr: tyrkneska
+  ts: tsonga
+  tsi: tsimsíska
+  tt: tatarska
+  tum: túmbúka
+  tup: túpímál
+  tut: altaísk mál (önnur)
+  tut: altaísk mál
+  tvl: túvalúska
+  tw: tví
+  ty: tahítíska
+  tyv: túvínska
+  udm: údmúrt
+  ug: úígúr
+  uga: úgarítíska
+  uk: úkraínska
+  umb: úmbúndú
+  und: óþekkt eða ógilt tungumál
+  und: (óþekkt mál)
+  ur: úrdú
+  uz: úsbekska
+  vai: vaí
+  ve: venda
+  vi: víetnamska
+  vo: volapyk
+  vot: votíska
+  wa: vallónska
+  wak: vakasmál
+  wal: valamó
+  war: varaí
+  was: vasjó
+  wen: sorbnesk mál
+  wo: volof
+  xal: kalmúkska
+  xh: sósa
+  yao: jaó
+  yap: japíska
+  yi: jiddíska
+  yo: jórúba
+  ypk: júpísk mál
+  yue: kantoneska
+  za: súang
+  zap: sapótek
+  zbl: blisstákn
+  zen: senaga
+  zh: kínverska
+  zh_Hans: kínverska (einfölduð)
+  zh_Hans: einfölduð kínverska
+  zh_Hant: kínverska (hefðbundin)
+  zh_Hant: hefðbundin kínverska
+  znd: sande
+  zu: súlú
+  zun: súní
+  zxx: ekkert tungutengt efni
+  zxx: (ekkert tungutengt efni)
+  zza: zázáíska
